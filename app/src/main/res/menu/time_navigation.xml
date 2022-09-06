@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_day"
+        android:title="1d"/>
+
+    <item
+        android:id="@+id/nav_week"
+        android:title="1w"/>
+
+    <item
+        android:id="@+id/nav_month"
+        android:title="1m"/>
+
+    <item
+        android:id="@+id/nav_three_month"
+        android:title="3m"/>
+
+    <item
+        android:id="@+id/nav_six_month"
+        android:title="6m"/>
+
+    <item
+        android:id="@+id/nav_year"
+        android:title="1y"/>
+
+</menu>
